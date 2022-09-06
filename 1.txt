@@ -11,5 +11,7 @@ If you have any suggestions, feel free to suggest in chat window
 
 Belated Happy Vinayaka chaviti.
 
-
 You have to do daily practice. otherwise it's hard.
+
+Hope you understood how realtime code will move from development to production.
+Everything we automated by using DevOps
